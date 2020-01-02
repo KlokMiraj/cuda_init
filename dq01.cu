@@ -85,7 +85,7 @@
  * Compile with:
  *   nvcc -o dq01 dq01.cu
  * 
- * Dr Kevan Buckley, University of Wolverhampton, 2018 
+
  ****************************************************************************/
 
 

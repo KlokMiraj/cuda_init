@@ -12,7 +12,6 @@
  * Compile with:
  *   nvcc -o dq00 dq00.cu
  * 
- * Dr Kevan Buckley, University of Wolverhampton, 2018 
  ****************************************************************************/
 int main() {
   int device_count;

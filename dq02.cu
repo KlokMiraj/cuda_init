@@ -19,7 +19,7 @@
  * Compile with:
  *   nvcc -o dq02 dq02.cu
  * 
- * Dr Kevan Buckley, University of Wolverhampton, 2018 
+
  ****************************************************************************/
 
 // This function which is heavily  based on
